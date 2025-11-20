@@ -1,3 +1,8 @@
+/*
+name ;evans kithinji
+reg no;ct100/g/26255/25
+des printing the element of the above array using loop 
+*/      
 #include <stdio.h>
 
 int main() {
