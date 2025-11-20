@@ -1,3 +1,9 @@
+*/
+    name;evans kithinji
+reg no;ct100/g/26255/25
+    des file handling
+    */
+
 #include <stdio.h>
 #include <stdlib.h>
 
